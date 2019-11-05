@@ -1,0 +1,36 @@
+@font-face{
+    font-family: 'Open Sans';
+    src: url('./fonts/OpenSans-ExtraBold.ttf');
+}
+
+h1{
+    font-family: 'Open Sans';
+}
+
+h1::first-letter{color: blue;
+    
+}
+p::first-line{
+    text-decoration:underline;
+}
+
+/* ul>li:first-child
+{
+    color: brown;
+} */
+/* ul>li:last-child
+{
+    font-family: monospace;
+} */
+/* ul>li:nth-child(3)
+{
+    color: cadetblue;
+} */
+ul>li:nth-child(even)
+{
+    color: chocolate;
+}
+ul>li:nth-child(odd)
+{
+    color: darkcyan;
+}

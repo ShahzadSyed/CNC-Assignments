@@ -1,2 +1,2 @@
 # CNC-Assignments
-Uploading PIAIC-CNC practice code & Assignements
+Uploading PIAIC-CNC practice code & Assignments

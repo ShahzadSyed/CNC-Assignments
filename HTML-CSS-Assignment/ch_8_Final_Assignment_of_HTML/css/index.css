@@ -1,0 +1,50 @@
+body{
+    padding: 0px 60px;
+}
+.header{
+    background-color: rgb(91, 155, 212);
+    border-radius: 20px;
+    border: 2px solid rgb(70, 120, 165);
+    padding: 20px 40px;
+    height: 95px;
+    box-shadow: -3px -3px rgb(223, 222, 221);
+}
+.navBarHeading{
+    float: left;
+    padding: 4% 2%;
+    font-size: 24px;
+    font-family: Sans-serif;
+    
+}
+.navBarHeading>a{
+    text-decoration: none;
+    color: black;
+
+}
+.navBarHeading:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+.logo{
+    float: left;
+    padding: 0px 15% 0px 0px;
+}
+.background{
+    margin: 8px 0px;
+    width: 100%;
+    height: 450px;
+}
+.homePara{
+    font-family: sans-serif;
+    font-size: 22px;
+}
+.footer{
+    font-family: sans-serif;
+    background-color: rgb(91, 155, 212);
+    border-radius: 8px;
+    border: 2px solid rgb(70, 120, 165);
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding: 3px 0px;
+}
